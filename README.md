@@ -8,4 +8,4 @@ Develop By : Laksanee P.
 🫥 Tech stack : Html, Css, Javascript <br>
 🚀 Deploy on : Netlify
 
-Demo : foodrestaurant-ominifood.netlify.app/
+Demo : https://foodrestaurant-ominifood.netlify.app/
